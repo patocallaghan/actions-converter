@@ -4,12 +4,12 @@
 ## Usage
 
 ```
-npx actions-converter tagname-prune path/of/files/ or/some**/*glob.js
+npx component-tweaks tagname-prune path/of/files/ or/some**/*glob.js
 
 # or
 
-yarn global add actions-converter
-actions-converter tagname-prune path/of/files/ or/some**/*glob.js
+yarn global add component-tweaks
+component-tweaks tagname-prune path/of/files/ or/some**/*glob.js
 ```
 
 ## Local Usage

@@ -1,5 +1,5 @@
 {
-  "name": "actions-converter",
+  "name": "component-tweaks",
   "version": "0.1.0",
   "scripts": {
     "lint": "eslint --cache .",

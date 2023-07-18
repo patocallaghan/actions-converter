@@ -4,12 +4,12 @@
 ## Usage
 
 ```
-npx actions-converter actions-hash path/of/files/ or/some**/*glob.js
+npx component-tweaks actions-hash path/of/files/ or/some**/*glob.js
 
 # or
 
-yarn global add actions-converter
-actions-converter actions-hash path/of/files/ or/some**/*glob.js
+yarn global add component-tweaks
+component-tweaks actions-hash path/of/files/ or/some**/*glob.js
 ```
 
 ## Local Usage

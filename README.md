@@ -1,19 +1,19 @@
-# actions-converter
+# component-tweaks
 
 
-A collection of codemods for actions-converter.
+A collection of codemods for component-tweaks.
 
 ## Usage
 
 To run a specific codemod from this project, you would run the following:
 
 ```
-npx actions-converter <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
+npx component-tweaks <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 
 # or
 
-yarn global add actions-converter
-actions-converter <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
+yarn global add component-tweaks
+component-tweaks <TRANSFORM NAME> path/of/files/ or/some**/*glob.js
 ```
 
 ## Local Usage
